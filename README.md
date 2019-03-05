@@ -4,6 +4,8 @@ This demonstrates a binary GAN pre-trained on CelebA, where the prior p(z) is a 
 
 Download the model file from [here](https://mega.nz/#!sP5TmQgL!G3t_928bR3uQRmjETOHfK_xAjISKPYJ61iGvedkL7A4) and place it in the `models/` folder. The run an IPython notebook server to run `widgets.ipynb`.
 
+Discussion: https://twitter.com/chris_j_beckham/status/1102607608131784710
+
 ## Acknowledgements
 
 https://github.com/christiancosgrove/pytorch-spectral-normalization-gan
